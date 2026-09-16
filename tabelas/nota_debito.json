@@ -1,0 +1,34 @@
+[
+  {
+    "Codigo": "01",
+    "Descricao": "Transferência de créditos para Cooperativas"
+  },
+  {
+    "Codigo": "02",
+    "Descricao": "Anulação de Crédito por Saídas Imunes/Isentas"
+  },
+  {
+    "Codigo": "03",
+    "Descricao": "Débitos de notas fiscais não processadas na apuração"
+  },
+  {
+    "Codigo": "04",
+    "Descricao": "Multa e juros"
+  },
+  {
+    "Codigo": "05",
+    "Descricao": "Transferência de crédito na sucessão"
+  },
+  {
+    "Codigo": "06",
+    "Descricao": "Pagamento antecipado"
+  },
+  {
+    "Codigo": "07",
+    "Descricao": "Perda em estoque"
+  },
+  {
+    "Codigo": "08",
+    "Descricao": "Desenquadramento do SN"
+  }
+]

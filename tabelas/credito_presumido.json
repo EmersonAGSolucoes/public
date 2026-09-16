@@ -1,0 +1,120 @@
+[
+  {
+    "Codigo": "1",
+    "Descricao": "Crédito presumido da aquisição de bens e serviços de produtor rural e produtor rural integrado não contribuinte, observado o art. 168 da Lei Complementar nº 214, de 2025.",
+    "ApropriaDFE": "Sim",        
+    "ApropriaEvento": "Sim",    
+    "DeduzCreditoPresumido": "Nao",    
+    "IBS": "Sim",    
+    "CBS": "Sim"
+  },
+  {
+    "Codigo": "2",
+    "Descricao": "Crédito presumido da aquisição de serviço de transportador autônomo de carga pessoa física não contribuinte, observado o art. 169 da Lei Complementar nº 214, de 2025.",
+    "ApropriaDFE": "Nao",
+    "ApropriaEvento": "Sim",
+    "DeduzCreditoPresumido": "Nao",
+    "IBS": "Sim",
+    "CBS": "Sim"
+  },
+  {
+    "Codigo": "3",
+    "Descricao": "Crédito presumido da aquisição de resíduos e demais materiais destinados à reciclagem, reutilização ou logística reversa adquiridos de pessoa física, cooperativa ou outra forma de economia solidária não contribuinte, observado o art. 170 da Lei Complementar nº 214, de 2025.",
+    "ApropriaDFE": "Sim",
+    "ApropriaEvento": "Sim",
+    "DeduzCreditoPresumido": "Nao",
+    "IBS": "Sim",
+    "CBS": "Sim"
+  },
+  {
+    "Codigo": "4",
+    "Descricao": "Crédito presumido da aquisição de bens móveis usados de pessoa física não contribuinte para revenda, observado o art. 171 da Lei Complementar nº 214, de 2025.",
+    "ApropriaDFE": "Sim",
+    "ApropriaEvento": "Sim",
+    "DeduzCreditoPresumido": "Sim",
+    "IBS": "Sim",
+    "CBS": "Sim"
+  },
+  {
+    "Codigo": "5",
+    "Descricao": "Crédito presumido no regime automotivo, observado o art. 310 da Lei Complementar nº 214, de 2025.",
+    "ApropriaDFE": "Sim",
+    "ApropriaEvento": "Nao",
+    "DeduzCreditoPresumido": "Nao",
+    "IBS": "Nao",
+    "CBS": "Sim"
+  },
+  {
+    "Codigo": "6",
+    "Descricao": "Crédito presumido no regime automotivo, observado o art. 311 da Lei Complementar nº 214, de 2025.",
+    "ApropriaDFE": "Sim",
+    "ApropriaEvento": "Nao",
+    "DeduzCreditoPresumido": "Nao",
+    "IBS": "Nao",
+    "CBS": "Sim"
+
+  },
+  {
+    "Codigo": "7",
+    "Descricao": "Crédito presumido na aquisição por contribuinte na Zona Franca de Manaus, observado o art. 444 da Lei Complementar nº 214, de 2025.",
+    "ApropriaDFE": "Sim",
+    "ApropriaEvento": "Nao",
+    "DeduzCreditoPresumido": "Sim",
+    "IBS": "Sim",
+    "CBS": "Nao"
+  },
+  {
+    "Codigo": "8",
+    "Descricao": "Crédito presumido na aquisição por contribuinte na Zona Franca de Manaus, observado o art. 447 da Lei Complementar nº 214, de 2025.",
+    "ApropriaDFE": "Nao",
+    "ApropriaEvento": "Sim",
+    "DeduzCreditoPresumido": "Nao",
+    "IBS": "Sim",
+    "CBS": "Nao"
+  },
+  {
+    "Codigo": "9",
+    "Descricao": "Crédito presumido na aquisição por contribuinte na Zona Franca de Manaus, observado o art. 448 da Lei Complementar nº 214, de 2025.",
+    "ApropriaDFE": "Nao",
+    "ApropriaEvento": "Sim",
+    "DeduzCreditoPresumido": "Nao",
+    "IBS": "Sim",
+    "CBS": "Nao"
+  },
+  {
+    "Codigo": "10",
+    "Descricao": "Crédito presumido na aquisição por contribuinte na Zona Franca de Manaus, observado o art. 450 da Lei Complementar nº 214, de 2025.",
+    "ApropriaDFE": "Sim",
+    "ApropriaEvento": "Nao",
+    "DeduzCreditoPresumido": "Nao",
+    "IBS": "Nao",
+    "CBS": "Sim"
+  },
+  {
+    "Codigo": "11",
+    "Descricao": "Crédito presumido na aquisição por contribuinte na Área de Livre Comércio, observado o art. 462 da Lei Complementar nº 214, de 2025.",
+    "ApropriaDFE": "Sim",
+    "ApropriaEvento": "Nao",
+    "DeduzCreditoPresumido": "Sim",
+    "IBS": "Sim",
+    "CBS": "Nao"
+  },
+  {
+    "Codigo": "12",
+    "Descricao": "Crédito presumido na aquisição por contribuinte na Área de Livre Comércio, observado o art. 465 da Lei Complementar nº 214, de 2025.",
+    "ApropriaDFE": "Nao",
+    "ApropriaEvento": "Sim",
+    "DeduzCreditoPresumido": "Nao",
+    "IBS": "Sim",
+    "CBS": "Nao"
+  },
+  {
+    "Codigo": "13",
+    "Descricao": "Crédito presumido na aquisição pela indústria na Área de Livre Comércio, observado o art. 467 da Lei Complementar nº 214, de 2025.",
+    "ApropriaDFE": "Sim",
+    "ApropriaEvento": "Nao",
+    "DeduzCreditoPresumido": "Nao",
+    "IBS": "Nao",
+    "CBS": "Sim"
+  }
+]

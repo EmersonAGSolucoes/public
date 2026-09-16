@@ -1,0 +1,22 @@
+[
+  {
+    "Codigo": "01",
+    "Descricao": "Multa e juros"
+  },
+  {
+    "Codigo": "02",
+    "Descricao": "Apropriação de crédito presumido de IBS sobre o saldo devedor na ZFM (art. 450, § 1º, LC 214/25)"
+  },
+  {
+    "Codigo": "03",
+    "Descricao": "Retorno por recusa total na entrega ou por não localização do destinatário na tentativa de entrega"
+  },
+  {
+    "Codigo": "04",
+    "Descricao": "Redução de valores"
+  },
+  {
+    "Codigo": "05",
+    "Descricao": "Transferência de crédito na sucessão"
+  }  
+]

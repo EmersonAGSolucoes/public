@@ -1,0 +1,89 @@
+[
+{
+    "Codigo": "070201",
+    "Descricao": "Execução, por administração, de obras de construção civil, ",
+	  "ExigeObra" : "Sim",
+	  "ExigeART" : "Sim"
+  },
+  {
+    "Codigo": "070202",
+    "Descricao": "Execução de obras",
+	  "ExigeObra" : "Sim",
+	  "ExigeART" : "Sim"
+  },
+  {
+    "Codigo": "070401",
+    "Descricao": "Demolição.",
+	  "ExigeObra" : "Sim",
+	  "ExigeART" : "Sim"
+  },
+  {
+    "Codigo": "070401",
+    "Descricao": "Demolição.",
+	  "ExigeObra" : "Sim",
+	  "ExigeART" : "Sim"
+  },
+  {
+    "Codigo": "070502",
+    "Descricao": "Reparação, conservação e reforma de estradas,",
+	  "ExigeObra" : "Sim",
+	  "ExigeART" : "Sim"
+  },
+{
+    "Codigo": "070601",
+    "Descricao": "Colocação e instalação de tapetes, carpetes, cortinas e congêneres,",
+	  "ExigeObra" : "Sim",
+	  "ExigeART" : "Sim"
+  },   
+  {
+    "Codigo": "070602",
+    "Descricao": "Colocação e instalação de assoalhos, revestimentos de parede, vidros,",
+	  "ExigeObra" : "Sim",
+	  "ExigeART" : "Sim"
+  }   
+  ,   
+  {
+    "Codigo": "070701",
+    "Descricao": "Recuperação, raspagem, polimento e lustração de pisos e congêneres.",
+	  "ExigeObra" : "Sim",
+	  "ExigeART" : "Sim"
+  }
+  ,   
+  {
+    "Codigo": "070801",
+    "Descricao": "Calafetação.",
+	  "ExigeObra" : "Sim",
+	  "ExigeART" : "Sim"
+  }
+  ,   
+  {
+    "Codigo": "071701",
+    "Descricao": "Escoramento, contenção de encostas e serviços congêneres.",
+	  "ExigeObra" : "Sim",
+	  "ExigeART" : "Sim"
+  }
+  ,   
+  {
+    "Codigo": "071901",
+    "Descricao": "Acompanhamento e fiscalização da execução de obras de engenharia, arquitetura e urbanismo.",
+	  "ExigeObra" : "Sim",
+	  "ExigeART" : "Sim"
+  }
+  ,   
+  {
+    "Codigo": "141403",
+    "Descricao": "",
+	  "ExigeObra" : "Sim",
+	  "ExigeART" : "Sim"
+  }
+  ,   
+  {
+    "Codigo": "141404",
+    "Descricao": "",
+	  "ExigeObra" : "Sim",
+	  "ExigeART" : "Sim"
+  }
+  ]
+  
+
+
