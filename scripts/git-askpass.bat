@@ -1,10 +1,9 @@
 @echo off
-set "PROMPT=%~1"
-
-echo %PROMPT% | findstr /I "username" >nul
-if not errorlevel 1 (
+echo executou askpass.bat > git-askpass.log
+if /I "%~1"=="Username for*" (
     echo %GIT_USERNAME%
     exit /b 0
 )
 
 echo %GIT_PASSWORD%
+exit /b 0
