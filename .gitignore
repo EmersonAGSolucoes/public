@@ -1,1 +1,2 @@
-/tabelas/*.tmp
+*.tmp      # all .tmp files
+*.log      # all .log files
