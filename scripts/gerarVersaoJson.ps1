@@ -5,7 +5,7 @@ param(
 
 $arquivoVersao = Join-Path $Diretorio "versao.json"
 
-$arquivos = Get-ChildItem -Path $Diretorio -File |
+$arquivos = Get-ChildItem -Path $Diretorio -File -Filter "*.json"|
     Where-Object { $_.Name -ne "versao.json" } |
     Sort-Object Name |
     ForEach-Object {
