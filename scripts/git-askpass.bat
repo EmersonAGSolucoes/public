@@ -1,6 +1,10 @@
 @echo off
-if /I "%~1"=="Username for*" (
+set "PROMPT=%~1"
+
+echo %PROMPT% | findstr /I "username" >nul
+if not errorlevel 1 (
     echo %GIT_USERNAME%
-) else (
-    echo %GIT_PASSWORD%
+    exit /b 0
 )
+
+echo %GIT_PASSWORD%
