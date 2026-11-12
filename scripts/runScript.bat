@@ -1,2 +1,2 @@
-powershell -ExecutionPolicy Bypass -File ".\gerarVersaoJson.ps1" -Diretorio ".\..\tabelas"
-powershell -ExecutionPolicy Bypass -File ".\gerarVersaoJson.ps1" -Diretorio ".\..\arquivos"
+powershell -ExecutionPolicy Bypass -File ".\gerarVersaoJson.ps1" -Diretorio ".\..\tabelas" -Versao "%1"
+powershell -ExecutionPolicy Bypass -File ".\gerarVersaoJson.ps1" -Diretorio ".\..\arquivos" -Versao "%1"
