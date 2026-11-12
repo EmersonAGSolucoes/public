@@ -1,10 +1,7 @@
 powershell -ExecutionPolicy Bypass -File ".\comparar.ps1" -Diretorio ".\..\tabelas"
 
 if errorlevel 0 (
-    echo Houve alteracoes, fazendo commit...
-    git add .
-    git commit -m "Atualizacao %BUILD_NUMBER%"
-    git push
+    echo Houve alteracoes, fazendo commit...    
 ) else (
     echo Nenhuma alteracao encontrada.
 )
@@ -12,10 +9,7 @@ if errorlevel 0 (
 powershell -ExecutionPolicy Bypass -File ".\comparar.ps1" -Diretorio ".\..\arquivos"
 
 if errorlevel 0 (
-    echo Houve alteracoes, fazendo commit...
-    git add .
-    git commit -m "Atualizacao %BUILD_NUMBER%"
-    git push
+    echo Houve alteracoes, fazendo commit...    
 ) else (
     echo Nenhuma alteracao encontrada.
 )
