@@ -1,0 +1,25 @@
+﻿{
+    "versao":  "1.0.0",
+    "arquivos":  [
+                     {
+                         "nome":  "Tabela_produtos_anp.csv",
+                         "hash":  "042129B7250288E160CEAD6A51598FBB0F06F45613A183653B66ABF2F5B11A62"
+                     },
+                     {
+                         "nome":  "Tabela_produtos_anp.tsv",
+                         "hash":  "EA4E7DF106DF11E3B1C4DF3C234D2FB27C35C9C5C31A8540761DC70B533E8ACF"
+                     },
+                     {
+                         "nome":  "TabelaCorrelacaoCSTDFe.csv",
+                         "hash":  "BB683184A5D98E7E14E7C169BEE6F7AC548FEB07DFB2E3424692958A27403CC1"
+                     },
+                     {
+                         "nome":  "TabelaCorrelacaoNBS.csv",
+                         "hash":  "600923A9A482090EF75FF23D92302CCE247D76B60D5C061080BBE0798BFEAAE2"
+                     },
+                     {
+                         "nome":  "TabelaDeCodigosNacionaisDoISSQN.csv",
+                         "hash":  "162589229FA80194E7E5CF0731EF5BE63439E42AA8C26CAEF6A308786DE068C1"
+                     }
+                 ]
+}

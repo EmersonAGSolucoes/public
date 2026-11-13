@@ -1,13 +1,21 @@
 ﻿{
-    "versao":  "1.0.0",
+    "versao":  "1.0.61",
     "arquivos":  [
                      {
                          "nome":  "classificacao_tributaria.json",
                          "hash":  "34DBCB8704F37FA64CB9C83EF7A9309DD48EA030F3A4A370CCCD639E6687B882"
                      },
                      {
+                         "nome":  "classTrib.json",
+                         "hash":  "6EA9386E4A15473A0D34B731200B801325524FB5065738C4AD7B9E85524124E0"
+                     },
+                     {
                          "nome":  "credito_presumido.json",
                          "hash":  "B37793672A4554619E1F2CF89AF572A7A32217D3D281AD881DF8976727E594DA"
+                     },
+                     {
+                         "nome":  "credPresumido.json",
+                         "hash":  "57BC7DB6A2673EEC8929FC4FDADC7BA294E1E0DCF53013335630EDDFEAB5F11D"
                      },
                      {
                          "nome":  "lista_nacional_servicos.json",
