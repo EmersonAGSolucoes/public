@@ -1,9 +1,9 @@
 ﻿{
-    "versao":  "1.0.61",
+    "versao":  "1.0.71",
     "arquivos":  [
                      {
                          "nome":  "classificacao_tributaria.json",
-                         "hash":  "34DBCB8704F37FA64CB9C83EF7A9309DD48EA030F3A4A370CCCD639E6687B882"
+                         "hash":  "8A1F2C853C69F5F7F2D831FD555DA6683ECB70ECEF90F27BB5FAF0E2D1D49D75"
                      },
                      {
                          "nome":  "classTrib.json",
