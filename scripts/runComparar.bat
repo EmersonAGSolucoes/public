@@ -1,15 +1,12 @@
 powershell -ExecutionPolicy Bypass -File ".\comparar.ps1" -Diretorio ".\..\tabelas"
+set error1=%ERRORLEVEL%
 
-if errorlevel 0 (
-    echo Houve alteracoes, fazendo commit...    
-) else (
-    echo Nenhuma alteracao encontrada.
-)
 
 powershell -ExecutionPolicy Bypass -File ".\comparar.ps1" -Diretorio ".\..\arquivos"
+set error2=%ERRORLEVEL%
 
-if errorlevel 0 (
-    echo Houve alteracoes, fazendo commit...    
+if %error1%%error2% neq 11 (
+    exit /b 0
 ) else (
-    echo Nenhuma alteracao encontrada.
+    exit /b 1
 )
